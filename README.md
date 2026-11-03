@@ -46,13 +46,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=T1TILUS&show_icons=true&theme=dark&hide_border=true" alt="T1TILUS GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1TILUS&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 📫 *Feel free to check out my repositories!*
